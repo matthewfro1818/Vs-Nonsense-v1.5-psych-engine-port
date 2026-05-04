@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"reoccurance",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"baffled",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"contextual",
+			"thank you mr tavish",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"nonsense",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
