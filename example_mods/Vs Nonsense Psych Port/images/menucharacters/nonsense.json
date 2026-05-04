@@ -1,22 +1,9 @@
 {
-  "image": "nonsense",
-  "scale": 1,
-  "offsets": [0, 0],
-
-  "animations": [
-    {
-      "name": "intro",
-      "prefix": "intro",
-      "fps": 24,
-      "loop": false,
-      "indices": []
-    },
-    {
-      "name": "loop",
-      "prefix": "loop",
-      "fps": 24,
-      "loop": true,
-      "indices": []
-    }
-  ]
+	"idle_anim": "loop",
+	"image": "nonsense",
+	"position": [100, 140],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.55,
+	"confirm_anim": "loop"
 }
