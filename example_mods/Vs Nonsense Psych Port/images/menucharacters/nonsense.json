@@ -1,0 +1,22 @@
+{
+  "image": "nonsense",
+  "scale": 1,
+  "offsets": [0, 0],
+
+  "animations": [
+    {
+      "name": "intro",
+      "prefix": "intro",
+      "fps": 24,
+      "loop": false,
+      "indices": []
+    },
+    {
+      "name": "loop",
+      "prefix": "loop",
+      "fps": 24,
+      "loop": true,
+      "indices": []
+    }
+  ]
+}
