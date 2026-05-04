@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nene_accuracy.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nene bad Idle0000" x="5" y="5" width="321" height="458" frameX="-97" frameY="-7" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0001" x="5" y="5" width="321" height="458" frameX="-97" frameY="-7" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0002" x="331" y="5" width="406" height="470" frameX="-13" frameY="-6" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0003" x="331" y="5" width="406" height="470" frameX="-13" frameY="-6" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0004" x="742" y="5" width="414" height="472" frameX="-5" frameY="-4" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0005" x="1161" y="5" width="414" height="472" frameX="-5" frameY="-4" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0006" x="1580" y="5" width="424" height="473" frameX="0" frameY="-2" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0007" x="2009" y="5" width="441" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0008" x="2455" y="5" width="439" height="475" frameX="-2" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0009" x="2899" y="5" width="439" height="474" frameX="-2" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0010" x="3343" y="5" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0011" x="3343" y="5" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0012" x="5" y="485" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0013" x="450" y="485" width="436" height="474" frameX="-9" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0014" x="891" y="485" width="436" height="471" frameX="-9" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0015" x="1332" y="485" width="394" height="394" frameX="-66" frameY="-17" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0016" x="1332" y="485" width="394" height="394" frameX="-66" frameY="-17" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0017" x="1731" y="485" width="363" height="361" frameX="-98" frameY="-18" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0018" x="1731" y="485" width="363" height="361" frameX="-98" frameY="-18" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0019" x="2099" y="485" width="362" height="353" frameX="-98" frameY="-16" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0020" x="2466" y="485" width="362" height="353" frameX="-98" frameY="-16" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0021" x="2833" y="485" width="360" height="352" frameX="-98" frameY="-14" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0022" x="3198" y="485" width="348" height="366" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0023" x="3551" y="485" width="348" height="366" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0024" x="5" y="964" width="348" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0025" x="358" y="964" width="347" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0026" x="358" y="964" width="347" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0027" x="710" y="964" width="347" height="376" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0028" x="1062" y="964" width="346" height="376" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene bad Idle0029" x="1413" y="964" width="346" height="403" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0000" x="1764" y="964" width="321" height="458" frameX="-97" frameY="-7" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0001" x="1764" y="964" width="321" height="458" frameX="-97" frameY="-7" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0002" x="2090" y="964" width="406" height="470" frameX="-13" frameY="-6" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0003" x="2090" y="964" width="406" height="470" frameX="-13" frameY="-6" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0004" x="2501" y="964" width="414" height="472" frameX="-5" frameY="-4" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0005" x="2920" y="964" width="414" height="472" frameX="-5" frameY="-4" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0006" x="3339" y="964" width="424" height="473" frameX="0" frameY="-2" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0007" x="5" y="1442" width="441" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0008" x="451" y="1442" width="439" height="475" frameX="-2" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0009" x="895" y="1442" width="439" height="474" frameX="-2" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0010" x="1339" y="1442" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0011" x="1339" y="1442" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0012" x="1784" y="1442" width="440" height="474" frameX="-3" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0013" x="2229" y="1442" width="436" height="474" frameX="-9" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0014" x="2670" y="1442" width="436" height="471" frameX="-9" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0015" x="3111" y="1442" width="394" height="394" frameX="-66" frameY="-17" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0016" x="3111" y="1442" width="394" height="394" frameX="-66" frameY="-17" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0017" x="3510" y="1442" width="363" height="361" frameX="-98" frameY="-18" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0018" x="3510" y="1442" width="363" height="361" frameX="-98" frameY="-18" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0019" x="5" y="1922" width="362" height="353" frameX="-98" frameY="-16" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0020" x="372" y="1922" width="362" height="353" frameX="-98" frameY="-16" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0021" x="739" y="1922" width="360" height="352" frameX="-98" frameY="-14" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0022" x="1104" y="1922" width="348" height="366" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0023" x="1457" y="1922" width="348" height="366" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0024" x="1810" y="1922" width="348" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0025" x="2163" y="1922" width="347" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0026" x="2163" y="1922" width="347" height="368" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0027" x="2515" y="1922" width="347" height="376" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0028" x="2867" y="1922" width="346" height="376" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="Nene good Idle0029" x="3218" y="1922" width="346" height="403" frameX="-98" frameY="0" frameWidth="461" frameHeight="476"/>
+	<SubTexture name="knife bad high held0000" x="3569" y="1922" width="342" height="525"/>
+	<SubTexture name="knife bad high held0001" x="5" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0002" x="5" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0003" x="352" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0004" x="699" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0005" x="699" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0006" x="1046" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0007" x="1393" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0008" x="1393" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad high held0009" x="1740" y="2452" width="342" height="525"/>
+	<SubTexture name="knife bad lower0000" x="2087" y="2452" width="341" height="525" frameX="-61" frameY="0" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0001" x="2433" y="2452" width="343" height="524" frameX="-61" frameY="-1" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0002" x="2433" y="2452" width="343" height="524" frameX="-61" frameY="-1" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0003" x="2781" y="2452" width="342" height="514" frameX="-61" frameY="-11" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0004" x="2781" y="2452" width="342" height="514" frameX="-61" frameY="-11" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0005" x="3128" y="2452" width="341" height="487" frameX="-61" frameY="-38" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0006" x="3128" y="2452" width="341" height="487" frameX="-61" frameY="-38" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0007" x="3474" y="2452" width="410" height="467" frameX="0" frameY="-55" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad lower0008" x="3474" y="2452" width="410" height="467" frameX="0" frameY="-55" frameWidth="410" frameHeight="525"/>
+	<SubTexture name="knife bad raise0000" x="5" y="2982" width="445" height="476" frameX="0" frameY="-50" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0001" x="5" y="2982" width="445" height="476" frameX="0" frameY="-50" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0002" x="455" y="2982" width="398" height="479" frameX="-44" frameY="-47" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0003" x="455" y="2982" width="398" height="479" frameX="-44" frameY="-47" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0004" x="858" y="2982" width="342" height="520" frameX="-99" frameY="-6" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0005" x="858" y="2982" width="342" height="520" frameX="-99" frameY="-6" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0006" x="1205" y="2982" width="342" height="524" frameX="-99" frameY="-2" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0007" x="1205" y="2982" width="342" height="524" frameX="-99" frameY="-2" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0008" x="1552" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0009" x="1552" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0010" x="1899" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0011" x="1899" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0012" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0013" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0014" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0015" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0016" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0017" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0018" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+	<SubTexture name="knife bad raise0019" x="2246" y="2982" width="342" height="526" frameX="-99" frameY="0" frameWidth="445" frameHeight="526"/>
+</TextureAtlas>
