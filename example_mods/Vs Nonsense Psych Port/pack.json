@@ -1,0 +1,11 @@
+{
+  "name": "Vs Nonsense Psych Port",
+  "description": "Auto-converted V-Slice Vs Nonsense 1.5 + Community Update for Psych Engine.",
+  "restart": false,
+  "runsGlobally": false,
+  "color": [
+    120,
+    120,
+    120
+  ]
+}
