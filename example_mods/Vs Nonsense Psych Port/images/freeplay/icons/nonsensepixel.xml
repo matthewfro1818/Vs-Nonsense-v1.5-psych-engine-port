@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="texture.png" width="98" height="56">
+  <SubTexture name="confirm02.png" x="0" y="0"  width="36" height="27" frameX="-11" frameY="-9" frameWidth="57" frameHeight="45"/>
+  <SubTexture name="confirm01.png" x="36" y="0"  width="32" height="28" frameX="-12" frameY="-8" frameWidth="57" frameHeight="45"/>
+  <SubTexture name="confirm-hold01.png" x="0" y="27"  width="31" height="29" frameX="-12" frameY="-7" frameWidth="57" frameHeight="45"/>
+  <SubTexture name="confirm03.png" x="68" y="0"  width="30" height="30" frameX="-12" frameY="-6" frameWidth="57" frameHeight="45"/>
+  <SubTexture name="confirm04.png" x="0" y="27"  width="31" height="29" frameX="-12" frameY="-7" frameWidth="57" frameHeight="45"/>
+  <SubTexture name="idle01.png" x="36" y="0"  width="32" height="28" frameX="-12" frameY="-8" frameWidth="57" frameHeight="45"/>
+</TextureAtlas>
