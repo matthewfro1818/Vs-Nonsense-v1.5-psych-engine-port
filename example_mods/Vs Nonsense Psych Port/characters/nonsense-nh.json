@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "anim": "lmao",
+      "name": "laugh0",
+      "fps": 24,
+      "loop": true,
+      "indices": [],
+      "offsets": [
+        -59,
+        -6
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -1,
+        -4
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -28,
+        15
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -22,
+        -22
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -70,
+        -4
+      ]
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": true,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    }
+  ],
+  "image": "NHsprite/NH",
+  "scale": 1.2,
+  "sing_duration": 8.0,
+  "healthicon": "nh",
+  "position": [
+    0,
+    -10
+  ],
+  "camera_position": [
+    -100,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ]
+}

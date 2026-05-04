@@ -1,0 +1,218 @@
+{
+  "animations": [
+    {
+      "anim": "danceLeft",
+      "name": "Idle0",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceRight",
+      "name": "Idle0",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceLeft-good",
+      "name": "Nene good Idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceRight-good",
+      "name": "Nene good Idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceLeft-bad",
+      "name": "Nene bad Idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceRight-bad",
+      "name": "Nene bad Idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "raiseKnife",
+      "name": "knife bad raise0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        52
+      ]
+    },
+    {
+      "anim": "idleKnife",
+      "name": "knife bad high held0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -99,
+        52
+      ]
+    },
+    {
+      "anim": "lowerKnife",
+      "name": "knife bad lower0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -39,
+        52
+      ]
+    }
+  ],
+  "image": "characters/Nene",
+  "scale": 1.0,
+  "sing_duration": 4.0,
+  "healthicon": "nene-nonsense",
+  "position": [
+    -30,
+    -84
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ]
+}

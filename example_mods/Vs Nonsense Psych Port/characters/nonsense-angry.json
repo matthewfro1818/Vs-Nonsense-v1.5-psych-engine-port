@@ -1,0 +1,286 @@
+{
+  "animations": [
+    {
+      "anim": "danceRight",
+      "name": "idle angry n stuff",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceLeft",
+      "name": "idle angry n stuff",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "idle-mad",
+      "name": "idle mad pissed whatever",
+      "fps": 24,
+      "loop": true,
+      "indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "offsets": [
+        -12,
+        -8
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "left note angry",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        131,
+        -33
+      ]
+    },
+    {
+      "anim": "singLEFT-mad",
+      "name": "left note mad penis",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        137,
+        -43
+      ]
+    },
+    {
+      "anim": "singLEFT-mad-hold",
+      "name": "left note mad penis",
+      "fps": 24,
+      "loop": true,
+      "indices": [
+        2,
+        3
+      ],
+      "offsets": [
+        137,
+        -43
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down note angry",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        90,
+        -148
+      ]
+    },
+    {
+      "anim": "singDOWN-mad",
+      "name": "down note madcopy",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        34,
+        -149
+      ]
+    },
+    {
+      "anim": "singDOWN-mad-hold",
+      "name": "down note madcopy",
+      "fps": 24,
+      "loop": true,
+      "indices": [
+        2,
+        3
+      ],
+      "offsets": [
+        34,
+        -149
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up note angry",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        5,
+        55
+      ]
+    },
+    {
+      "anim": "singUP-mad",
+      "name": "up note madder mad mmad",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        55,
+        55
+      ]
+    },
+    {
+      "anim": "singUP-mad-hold",
+      "name": "up note madder mad mmad",
+      "fps": 24,
+      "loop": true,
+      "indices": [
+        2,
+        3
+      ],
+      "offsets": [
+        55,
+        55
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right note angry",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -11,
+        -19
+      ]
+    },
+    {
+      "anim": "singRIGHT-mad",
+      "name": "right note mad pissed fard",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -11,
+        -19
+      ]
+    },
+    {
+      "anim": "singRIGHT-mad-hold",
+      "name": "right note mad pissed fard",
+      "fps": 24,
+      "loop": true,
+      "indices": [
+        2,
+        3
+      ],
+      "offsets": [
+        -11,
+        -19
+      ]
+    },
+    {
+      "anim": "angryEventAnim",
+      "name": "angryEventTransition",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -4,
+        -51
+      ]
+    },
+    {
+      "anim": "breatherEventAnim",
+      "name": "breatherEventAnim",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        40,
+        -5
+      ]
+    },
+    {
+      "anim": "getoutEventAnim",
+      "name": "getoutEventAnim",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        11,
+        -14
+      ]
+    },
+    {
+      "anim": "contextualGood",
+      "name": "contextual Response Good0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        -12
+      ]
+    },
+    {
+      "anim": "contextualBad",
+      "name": "contextual Response Bad0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        17,
+        0
+      ]
+    }
+  ],
+  "image": "characters/nonsense_angry",
+  "scale": 1.0,
+  "sing_duration": 8.0,
+  "healthicon": "nonsense",
+  "position": [
+    0,
+    0
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ]
+}

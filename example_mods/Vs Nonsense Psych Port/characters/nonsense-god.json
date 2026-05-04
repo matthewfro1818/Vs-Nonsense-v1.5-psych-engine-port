@@ -1,0 +1,100 @@
+{
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "god idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "god right",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "god down",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "god left-up",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "god left-up",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "confusedEventAnim",
+      "name": "god eventconfused",
+      "fps": 24,
+      "loop": true,
+      "indices": [],
+      "offsets": [
+        0,
+        -5
+      ]
+    },
+    {
+      "anim": "whatEventAnim",
+      "name": "god eventwhat0",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        329,
+        375
+      ]
+    }
+  ],
+  "image": "characters/nonsense_god",
+  "scale": 1.0,
+  "sing_duration": 8.0,
+  "healthicon": "nonsense-god",
+  "position": [
+    0,
+    -110
+  ],
+  "camera_position": [
+    -110,
+    -150
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "animations": [
+    {
+      "anim": "danceRight",
+      "name": "idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceLeft",
+      "name": "idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "danceRight-sweat",
+      "name": "sweat idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "offsets": [
+        10,
+        4
+      ]
+    },
+    {
+      "anim": "danceLeft-sweat",
+      "name": "sweat idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "offsets": [
+        10,
+        4
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "left note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        151,
+        -33
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        78,
+        -148
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        33,
+        55
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        6,
+        -19
+      ]
+    },
+    {
+      "anim": "boredEventAnim",
+      "name": "boredEvent",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        -1,
+        0
+      ]
+    },
+    {
+      "anim": "sweatEventAnim",
+      "name": "sweatEvent",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        11,
+        -2
+      ]
+    },
+    {
+      "anim": "singRIGHT-sweat",
+      "name": "sweat right note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        6,
+        -19
+      ]
+    },
+    {
+      "anim": "singLEFT-sweat",
+      "name": "sweat left note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        151,
+        -33
+      ]
+    },
+    {
+      "anim": "singUP-sweat",
+      "name": "sweat up note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        33,
+        55
+      ]
+    },
+    {
+      "anim": "singDOWN-sweat",
+      "name": "sweat down note",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        78,
+        -148
+      ]
+    },
+    {
+      "anim": "sangEventAnim",
+      "name": "Didntwesangthis",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        80,
+        -1
+      ]
+    }
+  ],
+  "image": "characters/nonsense",
+  "scale": 1.0,
+  "sing_duration": 8.0,
+  "healthicon": "nonsense",
+  "position": [
+    0,
+    0
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ]
+}
